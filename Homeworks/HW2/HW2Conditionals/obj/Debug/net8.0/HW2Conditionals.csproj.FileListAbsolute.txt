@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\bin\Debug\net8.0\HW2Conditionals.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\bin\Debug\net8.0\HW2Conditionals.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\bin\Debug\net8.0\HW2Conditionals.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\bin\Debug\net8.0\HW2Conditionals.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\bin\Debug\net8.0\HW2Conditionals.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.sourcelink.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\refint\HW2Conditionals.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\HW2Conditionals.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\obj\Debug\net8.0\ref\HW2Conditionals.dll
