@@ -26,3 +26,10 @@
 | Due Date | 6/2/24 |
 | Status | Done |
 
+# Project 1
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Birthdays |
+| Due Date | 6/2/24 |
+| Status | Done |
+
