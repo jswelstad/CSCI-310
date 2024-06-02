@@ -8,39 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5520b1b6-1e4a-4d7e-9992-5cfa887dcd06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW2Conditionals/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2Conditionals.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2Conditionals.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2Conditionals.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2024-06-02 095112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/HW2Conditionals.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/HW2Conditionals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/HW2Conditionals.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/HW2Conditionals.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/HW2Conditionals.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/HW2Conditionals.sourcelink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/HW2Conditionals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/HW2Conditionals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/HW2Conditionals.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/HW2Conditionals.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/HW2Conditionals.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blah/HW1Types.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717341219344</updated>
-      <workItem from="1717341220608" duration="2423000" />
+      <workItem from="1717341220608" duration="2161000" />
     </task>
     <servers />
   </component>
@@ -123,5 +94,24 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HW2Conditionals.cs</url>
+          <line>23</line>
+          <properties documentPath="C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\HW2Conditionals.cs" containingFunctionPresentation="Method 'Main'">
+            <startOffsets>
+              <option value="693" />
+            </startOffsets>
+            <endOffsets>
+              <option value="780" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
