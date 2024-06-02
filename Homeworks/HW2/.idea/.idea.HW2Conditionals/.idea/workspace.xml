@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5520b1b6-1e4a-4d7e-9992-5cfa887dcd06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blah/HW1Types.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="5520b1b6-1e4a-4d7e-9992-5cfa887dcd06" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +17,7 @@
     <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -85,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717341219344</updated>
       <workItem from="1717341220608" duration="2161000" />
+      <workItem from="1717343670509" duration="200000" />
     </task>
     <servers />
   </component>
@@ -101,14 +97,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/HW2Conditionals.cs</url>
           <line>23</line>
-          <properties documentPath="C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\HW2Conditionals.cs" containingFunctionPresentation="Method 'Main'">
-            <startOffsets>
-              <option value="693" />
-            </startOffsets>
-            <endOffsets>
-              <option value="780" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\Users\jkswe\projects\CSCI-310\Homeworks\HW2\HW2Conditionals\HW2Conditionals.cs" containingFunctionPresentation="Method 'Main'" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

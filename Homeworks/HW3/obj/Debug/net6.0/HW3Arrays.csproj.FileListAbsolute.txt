@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\bin\Debug\net6.0\HW3Arrays.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\bin\Debug\net6.0\HW3Arrays.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\bin\Debug\net6.0\HW3Arrays.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\bin\Debug\net6.0\HW3Arrays.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\bin\Debug\net6.0\HW3Arrays.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\refint\HW3Arrays.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\HW3Arrays.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW3\obj\Debug\net6.0\ref\HW3Arrays.dll
