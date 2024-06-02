@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\bin\Debug\net6.0\BirthdayCalculator.exe
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\bin\Debug\net6.0\BirthdayCalculator.deps.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\bin\Debug\net6.0\BirthdayCalculator.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\bin\Debug\net6.0\BirthdayCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\bin\Debug\net6.0\BirthdayCalculator.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\refint\BirthdayCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\BirthdayCalculator.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project1\obj\Debug\net6.0\ref\BirthdayCalculator.dll
