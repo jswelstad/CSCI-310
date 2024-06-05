@@ -26,6 +26,34 @@
 | Due Date | 6/2/24 |
 | Status | Done |
 
+# Homework 4
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Methods |
+| Due Date | 6/9/24 |
+| Status | Done |
+
+# Homework 5
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Classes |
+| Due Date | 6/9/24 |
+| Status | Done |
+
+# Homework 6
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Inheritance |
+| Due Date | 6/9/24 |
+| Status | Done |
+
+# Homework 7
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Polymorphism |
+| Due Date | 6/9/24 |
+| Status | Done |
+
 # Project 1
 | Name | Jack Swelstad |
 | :--- | :--- |
