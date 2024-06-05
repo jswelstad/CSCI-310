@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\HW5\\HW5Classes.csproj",
+      "projectUniqueName": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\HW5Classes.csproj",
       "projectName": "HW5Classes",
-      "projectPath": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\HW5\\HW5Classes.csproj",
+      "projectPath": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\HW5Classes.csproj",
       "packagesPath": "C:\\Users\\jkswe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\HW5\\obj\\",
+      "outputPath": "C:\\Users\\jkswe\\projects\\CSCI-310\\Homeworks\\HW5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jkswe\\AppData\\Roaming\\NuGet\\NuGet.Config",
