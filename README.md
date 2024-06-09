@@ -68,3 +68,10 @@
 | Due Date | 6/2/24 |
 | Status | Done |
 
+# Project 2
+| Name | Jack Swelstad |
+| :--- | :--- |
+| Name | Points |
+| Due Date | 6/9/24 |
+| Status | Done |
+
