@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\bin\Debug\net6.0\PointCalculator.exe
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\bin\Debug\net6.0\PointCalculator.deps.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\bin\Debug\net6.0\PointCalculator.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\bin\Debug\net6.0\PointCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\bin\Debug\net6.0\PointCalculator.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\refint\PointCalculator.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\PointCalculator.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project2\obj\Debug\net6.0\ref\PointCalculator.dll
