@@ -54,7 +54,7 @@
 | Due Date | 6/9/24 |
 | Status | Done |
 
-# Homework 9
+# Homework 8
 | Name | Jack Swelstad |
 | :--- | :--- |
 | Name | Operator Overloading |
