@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\bin\Debug\net6.0\HW10Lists.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\bin\Debug\net6.0\HW10Lists.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\bin\Debug\net6.0\HW10Lists.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\bin\Debug\net6.0\HW10Lists.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\bin\Debug\net6.0\HW10Lists.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\refint\HW10Lists.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\HW10Lists.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW10\obj\Debug\net6.0\ref\HW10Lists.dll
