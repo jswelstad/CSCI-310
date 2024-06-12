@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\bin\Debug\net6.0\HW12Exceptions.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\bin\Debug\net6.0\HW12Exceptions.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\bin\Debug\net6.0\HW12Exceptions.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\bin\Debug\net6.0\HW12Exceptions.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\bin\Debug\net6.0\HW12Exceptions.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\refint\HW12Exceptions.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\HW12Exceptions.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW12\obj\Debug\net6.0\ref\HW12Exceptions.dll
