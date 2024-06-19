@@ -19,7 +19,7 @@ namespace HW13Streams
 
             using (StreamReader sr = new StreamReader(inputName))
             {
-
+            
                 Console.WriteLine("From input file:");
                 
                 while (!sr.EndOfStream)

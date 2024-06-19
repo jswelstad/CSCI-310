@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\bin\Debug\net6.0\CustomerManagement.exe
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\bin\Debug\net6.0\CustomerManagement.deps.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\bin\Debug\net6.0\CustomerManagement.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\bin\Debug\net6.0\CustomerManagement.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\bin\Debug\net6.0\CustomerManagement.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\refint\CustomerManagement.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\CustomerManagement.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\Project3\obj\Debug\net6.0\ref\CustomerManagement.dll
