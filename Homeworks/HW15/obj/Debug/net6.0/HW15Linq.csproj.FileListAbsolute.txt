@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\bin\Debug\net6.0\HW15Linq.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\bin\Debug\net6.0\HW15Linq.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\bin\Debug\net6.0\HW15Linq.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\bin\Debug\net6.0\HW15Linq.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\bin\Debug\net6.0\HW15Linq.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\refint\HW15Linq.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\HW15Linq.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW15\obj\Debug\net6.0\ref\HW15Linq.dll
