@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\bin\Debug\net6.0\HW14Delegates.exe
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\bin\Debug\net6.0\HW14Delegates.deps.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\bin\Debug\net6.0\HW14Delegates.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\bin\Debug\net6.0\HW14Delegates.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\bin\Debug\net6.0\HW14Delegates.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\refint\HW14Delegates.dll
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.pdb
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\HW14Delegates.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Homeworks\HW14\obj\Debug\net6.0\ref\HW14Delegates.dll
