@@ -1,0 +1,15 @@
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.csproj.AssemblyReference.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.AssemblyInfo.cs
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\bin\Debug\net6.0\EventManager.exe
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\bin\Debug\net6.0\EventManager.deps.json
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\bin\Debug\net6.0\EventManager.runtimeconfig.json
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\bin\Debug\net6.0\EventManager.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\bin\Debug\net6.0\EventManager.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\refint\EventManager.dll
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.pdb
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\EventManager.genruntimeconfig.cache
+C:\Users\jkswe\projects\CSCI-310\Projects\project4\obj\Debug\net6.0\ref\EventManager.dll
